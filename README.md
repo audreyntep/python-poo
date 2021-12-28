@@ -1,4 +1,4 @@
-# Cour OPEN CLASS ROOMS : https://openclassrooms.com/fr/courses/4302126-decouvrez-la-programmation-orientee-objet-avec-python/4302133-tirez-pleinement-parti-de-ce-cours
+# Cours OPEN CLASS ROOMS : https://openclassrooms.com/fr/courses/4302126-decouvrez-la-programmation-orientee-objet-avec-python/4302133-tirez-pleinement-parti-de-ce-cours
 
 # UN MONDE PARALLELE
 
